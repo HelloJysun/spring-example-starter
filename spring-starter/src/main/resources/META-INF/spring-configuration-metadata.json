@@ -1,0 +1,16 @@
+{
+  "properties": [
+    {
+      "name": "example.starter.name",
+      "type": "java.lang.String",
+      "description": "示例名称",
+      "defaultValue": "未知名称"
+    },
+    {
+      "name": "example.starter.age",
+      "type": "java.lang.Integer",
+      "description": "示例年龄",
+      "defaultValue": "-1"
+    }
+  ]
+}
