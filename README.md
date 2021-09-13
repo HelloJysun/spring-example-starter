@@ -1,3 +1,4 @@
+```
 │  .gitignore
 │  pom.xml
 │
@@ -34,3 +35,4 @@
           └─resources
                   application.yml                      # define starter configuration attribute
     
+```
